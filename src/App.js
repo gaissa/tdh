@@ -9,19 +9,19 @@ function App() {
         <p>
           LFG!
         </p>
-		
-		<div className="App-content">
-		  <p>
-		    say what?
-		  </p>		  
-		</div>
+
+        <div className="App-content">
+          <p>
+            say what?
+          </p>
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          chill...
+          LINK TO THE VOID
         </a>
       </header>
     </div>
